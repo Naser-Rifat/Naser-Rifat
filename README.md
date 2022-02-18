@@ -1,10 +1,12 @@
-<!-- <p align="center"><a href="https://abunaserrifat.xyz/"><img width="250px" height="250px" src="" height="175px"/></a></p> -->
+### Hi there 👋, I am Abu Naser Rifat
+#### I am a Web Developer
+![I am a Web Developer](https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abu Naser Rifat</h1>
-<h3 align="center">I'm a Web Developer</h3>
-<p align="center">I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB</p>
+I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB
 
-## 😎 About Me
+Skills:  REACT / JS /NODE/EXPRESS/PYTHON/C/ HTML / CSS/
+
+## About Me
 
 - 🔭 I’m currently working on **Interior.Us**
 
@@ -41,11 +43,12 @@
 
 ## 🔥 Streak stats
 
-<p align="center">
+<p align="">
 <a href="https://github.com/Naser-Rifat/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abu Naser Rifat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Naser-Rifat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 </p>
+<br/>
 
 ## 📊 My Github Status
 
