@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abu Naser Rifat</h1>
 <h3 align="center">I'm a Web Developer</h3>
+<h5 align="center">I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB</h5>
 
 ## 😎 About Me
 
