@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abu Naser Rifat</h1>
 <h3 align="center">I'm a Web Developer</h3>
-<h5 align="center">I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB</h5>
+<p align="center">I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB</p>
 
 ## 😎 About Me
 
@@ -38,34 +38,6 @@
 
 <br/>
 
-## 📌 My React Webapp Projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Technology Used</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://bicycle-shop-121fb.web.app/" target="_blank">BikeHub</a></td>
-      <td>A Bicycle Selling Site with separate User and Admin Dashboard.</td>
-      <td>React, Firebase, Tailwind CSS, Node.js, Express.js, MongoDB, Heroku</td>
-    </tr>
-    <tr>
-      <td> <a href="https://aahar-food-delivery-9e14a.web.app/">Aahar</a></td>
-      <td>A Food Delivery Site.Users can order any food and that will be stored in the database</td>
-      <td>React, Firebase, React Bootstrap, Node.js, Express, tailwind css, MongoDB, Heroku</td>
-    </tr>
-    <tr>
-      <td> <a href="https://medi-clinic-924d0.web.app/">MediClinic</a></td>
-      <td>Full Stack doctor portal Related site. Patient can apply for Many Other Appoinement for Booking in this site.</td>
-      <td>React, Firebase, tailwind css, Node.js, Express, MongoDB, Heroku</td>
-    </tr>
-  </tbody>
-</table>
 
 ## 🔥 Streak stats
 
