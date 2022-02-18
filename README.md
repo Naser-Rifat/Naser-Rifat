@@ -25,7 +25,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 - 📫 How to reach me **dev.abunaserrifat@gmail.com**
 
-- ⚡ Fun fact **Sometimes I go out with my cycle.**
+- ⚡ Fun fact **Sometimes I go out with my Bi-cycle.**
 
 <br/>
 
