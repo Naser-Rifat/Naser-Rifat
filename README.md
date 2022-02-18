@@ -82,7 +82,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Naser-Rifat/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Naser-Rifat">
 </a>
 <a href="https://github.com/Naser-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/Naser-Rifat?label=Followers&style=social" alt="GitHub Badge"></a>
