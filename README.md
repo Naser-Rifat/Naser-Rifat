@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Abu Naser Rifat
 #### I am a Web Developer
-![I am a Web Developer](https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90)
+![I am a Web Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--LmNoCt27--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lqoqivu2ue9s36lyxolt.png)
 
 I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB
 
