@@ -6,7 +6,7 @@
 
 ## 😎 About Me
 
-🔭 I’m currently working on **Interior.Us**
+- 🔭 I’m currently working on **Interior.Us**
 
 - 🌱 I’m currently learning **React js and Node js.**
 
