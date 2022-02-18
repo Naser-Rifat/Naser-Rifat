@@ -2,9 +2,7 @@
 
 
 ![I am a Web Developer](https://i.ibb.co/2Zcw8rr/1-d-Rpu-J5-IFMfl-Nv-WUGMYr-Tc-Q.png)
-<a href="https://github.com/Naser-Rifat/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Naser-Rifat">
-</a><a href="https://github.com/Naser-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/Naser-Rifat?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 # Hi there 👋, I am Abu Naser Rifat.
 💻 I am a Web Developer.
@@ -82,5 +80,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 <br/>
 <a href="https://github.com/Naser-Rifat/github-readme-activity-graph"><img alt="Abu Naser Rifat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Naser-Rifat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
+<a href="https://github.com/Naser-Rifat/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Naser-Rifat">
+</a><a href="https://github.com/Naser-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/Naser-Rifat?label=Followers&style=social" alt="GitHub Badge"></a>
 
