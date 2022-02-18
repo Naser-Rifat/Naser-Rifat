@@ -5,13 +5,13 @@
 
 ## 😎 About Me
 
-- 🔭 I’m currently working on **[StackEcho Solutions](https://stackecho.com/)**
+🔭 I’m currently working on **Interior.Us**
 
 - 🌱 I’m currently learning **React js and Node js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.abunaserrifat.xyz)**
 
 - 📫 How to reach me **dev.abunaserrifat@gmail.com**
 
@@ -59,7 +59,7 @@
       <td>React, Firebase, React Bootstrap, Node.js, Express, tailwind css, MongoDB, Heroku</td>
     </tr>
     <tr>
-      <td> <a href="https://medi-clinic-924d0.web.app/">Classic Doctor Portal</a></td>
+      <td> <a href="https://medi-clinic-924d0.web.app/">MediClinic</a></td>
       <td>Full Stack doctor portal Related site. Patient can apply for Many Other Appoinement for Booking in this site.</td>
       <td>React, Firebase, tailwind css, Node.js, Express, MongoDB, Heroku</td>
     </tr>
