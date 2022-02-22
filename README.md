@@ -21,7 +21,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Naser-Rifat/)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Naser-Rifat?tab=repositories)**
 
 - 📫 How to reach me **dev.abunaserrifat@gmail.com**
 
