@@ -37,7 +37,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.abunaserrifat@gmail.com)
 [<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RifatNaser) -->
 
-<h3 align="left"> 🙋‍♂️ Feel Free to Connect With Me:</h3>
+<h3 align="left"> 🙋‍♂️ Connect With Me:</h3>
 <p align="left">
 <a href="https://github.com/naser-rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/naser-rifat" height="30" width="40" /></a>
  <a href="https://www.facebook.com/rifat971/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rifat971/" height="30" width="40" /></a>
