@@ -29,7 +29,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 <br/>
 
-<!-- ## 🙋‍♂️ Feel Free to Connect With Me:
+<!-- ## 🙋‍♂️ Connect With Me:
 
 [<img src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/>](https://www.abunaserrifat.xyz)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rifat971/)
