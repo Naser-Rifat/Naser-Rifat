@@ -17,7 +17,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 - 🔭 I’m currently working on **Interior.Us**
 
-- 🌱 I’m currently learning **React js and Node js.**
+- 🌱 I’m currently learning **TypeScript & Redux**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -25,7 +25,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 - 📫 How to reach me **dev.abunaserrifat@gmail.com**
 
-- ⚡ Fun fact **Sometimes I go out with my Bi-cycle.**
+- ⚡ Fun fact **I always loved to explore new places..**
 
 <br/>
 
