@@ -17,7 +17,7 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 - 🔭 I’m currently working on **Health Bondhu Ltd.**
 
-- 🌱 I’m currently learning **TypeScript & Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
