@@ -12,8 +12,7 @@
 🏫 Love to learn
 <br/>
 <br/>
-I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications and working across MERN stack development. I have built some web applications from the ground up using Html, CSS, tailwind-CSS, material UI, bootstrap, JavaScript, JSON, ES6, firebase, Nodejs, Reactjs, Express, & MongoDB.
-
+I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on next.js,typescript & angular.
 
 - 🔭 I’m currently working on **Health Bondhu Ltd.**
 
