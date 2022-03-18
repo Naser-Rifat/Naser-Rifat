@@ -5,7 +5,7 @@
 
 
 # Hi there 👋.
-💻 I am a Web Developer.
+💻 I am currently working as a  Web Developer.
 <br/>
 👩‍💻 I love to code.
 <br/>
