@@ -16,15 +16,15 @@ I have completed my bachelor's degree in computer science and engineering with a
 
 - 🔭 I’m currently working on **Nexis Ltd.**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js**.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Naser-Rifat?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Naser-Rifat?tab=repositories)**.
 
-- 📫 How to reach me **dev.abunaserrifat@gmail.com**
+- 📫 How to reach me **dev.abunaserrifat@gmail.com**.
 
-- ⚡ Fun fact **I always loved to explore new places..**
+- ⚡ Fun fact **I always loved to explore new places**.
 
 <br/>
 
