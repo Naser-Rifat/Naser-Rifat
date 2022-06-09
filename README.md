@@ -14,9 +14,9 @@
 <br/>
 I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on next.js,typescript & angular.
 
-- 🔭 I’m currently working on **Health Bondhu Ltd.**
+- 🔭 I’m currently working on **Nexis Ltd.**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
