@@ -5,9 +5,9 @@
 
 
 # Hi there 👋.
-💻 I am currently working as a  Web Developer.
+💻 Currently working as a  Web Developer.
 <br/>
-👩‍💻 I love to code.
+👩‍💻 Love to code.
 <br/>
 🏫 Love to learn
 <br/>
