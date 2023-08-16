@@ -7,9 +7,9 @@
 🏫 Love to learn
 <br/>
 <br/>
-I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on next.js,typescript & angular.
+I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on next.js, typescript & angular.
 
-- 🔭 I’m currently working on **Nexis Ltd.**
+- 🔭 I’m currently working at **KM Group.**
 
 - 🌱 I’m currently learning **Next Js**.
 
