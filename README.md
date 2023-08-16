@@ -1,9 +1,4 @@
 
-
-
-![I am a Web Developer](https://i.ibb.co/2Zcw8rr/1-d-Rpu-J5-IFMfl-Nv-WUGMYr-Tc-Q.png)
-
-
 # Hi there 👋.
 💻 Currently working as a  Web Developer.
 <br/>
