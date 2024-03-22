@@ -7,8 +7,6 @@
 🏫 Love to learn
 <br/>
 <br/>
-I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on  React , next.js, typescript.
-
 - 🔭 I’m currently working at **KM Group.**
 
 - 🌱 I’m currently learning **Next Js**.
@@ -18,6 +16,8 @@ I have completed my bachelor's degree in computer science and engineering with a
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Naser-Rifat?tab=repositories)**.
 
 - 📫 How to reach me **dev.abunaserrifat@gmail.com**.
+
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/abunaserrifat/)
 
 <br/>
 
