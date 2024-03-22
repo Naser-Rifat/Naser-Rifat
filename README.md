@@ -1,13 +1,13 @@
 
 # Hi there 👋.
-💻 Currently working as a  Web Developer.
+💻 Currently working as a  Software Engineer.
 <br/>
 👩‍💻 Love to code.
 <br/>
 🏫 Love to learn
 <br/>
 <br/>
-I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on next.js, typescript & angular.
+I have completed my bachelor's degree in computer science and engineering with a passion for developing scalable web applications. Now, working on  React , next.js, typescript.
 
 - 🔭 I’m currently working at **KM Group.**
 
