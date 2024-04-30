@@ -1,13 +1,8 @@
 
 # Hi there 👋.
-💻 Currently working as a  Software Engineer.
+💻 I am a Software Engineer.
 <br/>
-👩‍💻 Love to code.
-<br/>
-🏫 Love to learn
-<br/>
-<br/>
-- 🔭 I’m currently working at **KM Group.**
+- 🔭 I’m currently working at **Tecno Bz.**
 
 - 🌱 I’m currently learning **Next Js**.
 
