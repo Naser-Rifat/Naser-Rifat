@@ -4,7 +4,7 @@
 <br/>
 - 🔭 I’m currently working at **Tecno Bz.**
 
-- 🌱 I’m currently learning **Next Js**.
+- 🌱 I’m currently learning **CI/CD**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
