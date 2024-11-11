@@ -2,7 +2,7 @@
 # Hi there 👋.
 💻 I am a Software Engineer.
 <br/>
-- 🔭 I’m currently working at **Tecno Bz.**
+- 🔭 I’m currently working at **Fashol.**
 
 - 🌱 I’m currently learning **CI/CD**.
 
